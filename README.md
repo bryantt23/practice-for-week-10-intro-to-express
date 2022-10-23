@@ -6,7 +6,7 @@ text response on the `/status` route.
 
 ## Create a new Express project
 
-`cd` into the __server__ directory after creating it.
+`cd` into the **server** directory after creating it.
 
 Add a `package.json` file by running the following command:
 
@@ -25,7 +25,7 @@ Install the following development dependencies using the command
 
 ## Create an Express application
 
-Create a file called __app.js__ inside of your __server__ folder.
+Create a file called **app.js** inside of your **server** folder.
 
 Initialize an Express application inside that file.
 
@@ -41,7 +41,7 @@ connects to the port.
 
 ## Add scripts to start the server
 
-Create a script in the __package.json__ file to start the server in production
+Create a script in the **package.json** file to start the server in production
 using `node`. The script can be named "start".
 
 Create another script to start the server in development using the `nodemon`
